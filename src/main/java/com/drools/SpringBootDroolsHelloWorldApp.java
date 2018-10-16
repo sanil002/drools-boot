@@ -1,4 +1,4 @@
-package com.javainuse;
+package com.drools;
 
 import org.kie.api.KieServices;
 import org.kie.api.runtime.KieContainer;

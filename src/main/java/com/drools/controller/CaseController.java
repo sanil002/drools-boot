@@ -1,11 +1,11 @@
-package com.javainuse.controller;
+package com.drools.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.javainuse.service.CaseService;
+import com.drools.service.CaseService;
 
 import demo.casemanagement.CaseResponce;
 import demo.casemanagement.Chargeback;

@@ -1,4 +1,4 @@
-package com.javainuse.service;
+package com.drools.service;
 
 import java.util.Collection;
 
